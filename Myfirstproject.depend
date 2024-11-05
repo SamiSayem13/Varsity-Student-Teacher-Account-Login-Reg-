@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1729445267 source:c:\users\zeus\desktop\smart campus\myfirstproject\main.cpp
+	"display.h"
+	<conio.h>
+	<windows.h>
+
+1729273524 source:c:\users\zeus\desktop\smart campus\myfirstproject\starting.cpp
+	<bits/stdc++.h>
+	<windows.h>
+
+1730040372 source:c:\users\zeus\desktop\smart campus\myfirstproject\display.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<iomanip>
+
+1729341411 c:\users\zeus\desktop\smart campus\myfirstproject\display.h
+
